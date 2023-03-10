@@ -1,0 +1,69 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.body_inicio {
+	background-color: black;
+}
+
+.body_inicio img{
+	width:100%;
+}
+
+.container-fluid{
+	background-color: black;
+}
+
+.a{
+	color: aliceblue;
+}
+
+.paddingTB {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.footerBg {
+	/*background-color:black*/
+	background-color: rgb(250, 245, 245);
+}
+
+.footerBg h3 {
+	color: #b6afaf;
+	text-align: center;
+}
+
+.footerBg p{
+	margin-top: 10px;
+	color:white
+}
+
+.footerBg .item img{
+	width: 35px;
+	height: 35px;
+}
+
+.item_contact{
+	display:inline-block
+}
+
+img.alineadoTextoImagenCentro{
+	vertical-align: middle;
+}
+
+
+
+
+/* fuerza el cambio de color de los items de la navbar 
+.container-fluid nav ul li a{
+	color: #39ff14 !important;
+}
+
+.container-fluid nav ul li a:hover{
+	color: whitesmoke !important;
+} */
+
+
+
+
