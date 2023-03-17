@@ -1,0 +1,104 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.header {
+	background: url(../images/background_index.jpg) no-repeat center;
+	background-size: cover;
+	min-height: 100vh;
+  }
+
+.header .navbar {
+	background-color: transparent !important;
+  }
+
+.body_inicio {
+	background-color: black;
+}
+
+.body_inicio img{
+	width:100%;
+}
+
+.container-fluid{
+	background-color: black;
+}
+
+.a{
+	color: aliceblue;
+}
+
+.paddingTB {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.footerBg {
+	/*background-color: rgb(250, 245, 245);*/
+	background-color: #f8f9fa;
+}
+
+.footerBg h3 {
+	color: #b6afaf;
+	text-align: center;
+}
+
+.footerBg p{
+	text-align: center;
+	margin-top: 10px;
+	color:rgb(219, 215, 215)
+}
+
+.footerBg .item img{
+	width: 35px;
+	height: 35px;
+}
+
+.footer_box_copyright p{
+	color: #797575;
+}
+
+.item_contact{
+	display:inline-block
+}
+
+img.alineadoTextoImagenCentro{
+	vertical-align: middle;
+}
+
+
+
+/* fuerza el cambio de color de los items de la navbar 
+.container-fluid nav ul li a{
+	color: #39ff14 !important;
+}
+
+
+.container-fluid nav ul li a:hover{
+	color: whitesmoke !important;
+} */
+
+/*contacto
+
+.body_contact{
+	background-color: black;
+}
+
+.body_contact h2 {
+	color:whitesmoke ;
+}
+
+.body_contact p {
+	color:whitesmoke ;
+}
+
+.mb-3 label{
+	color: whitesmoke;
+}
+
+.mb-3 span{
+	color: whitesmoke;
+}
+*/
+
