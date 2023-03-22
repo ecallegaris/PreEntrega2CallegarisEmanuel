@@ -5,21 +5,13 @@
 
 .header {
 	background: url(../images/background_index.jpg) no-repeat center;
-	background-size: cover;
+	background-size:cover;
 	min-height: 100vh;
   }
 
 .header .navbar {
 	background-color: transparent !important;
   }
-
-.body_inicio {
-	background-color: black;
-}
-
-.body_inicio img{
-	width:100%;
-}
 
 .container-fluid{
 	background-color: black;
@@ -66,39 +58,3 @@
 img.alineadoTextoImagenCentro{
 	vertical-align: middle;
 }
-
-
-
-/* fuerza el cambio de color de los items de la navbar 
-.container-fluid nav ul li a{
-	color: #39ff14 !important;
-}
-
-
-.container-fluid nav ul li a:hover{
-	color: whitesmoke !important;
-} */
-
-/*contacto
-
-.body_contact{
-	background-color: black;
-}
-
-.body_contact h2 {
-	color:whitesmoke ;
-}
-
-.body_contact p {
-	color:whitesmoke ;
-}
-
-.mb-3 label{
-	color: whitesmoke;
-}
-
-.mb-3 span{
-	color: whitesmoke;
-}
-*/
-
