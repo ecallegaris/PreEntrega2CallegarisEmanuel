@@ -6,8 +6,6 @@
 .header {
 	background: url(../images/background_index.jpg) no-repeat center;
 	background-size:cover;
-	/*alto*/
-	height:800px; 
 	min-height: 100vh;
   }
 
